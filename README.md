@@ -9,8 +9,11 @@ you will not leave a one day workshop as a fully acomplished R programmer, just 
 ## Before You Arrive
 
 1. Install R   
-   * [Windows](https://cran.r-project.org/bin/windows/base/) > [instructions](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027)   
-   * [Mac](https://cran.r-project.org/bin/macosx/)  > [instructions](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-mac-e911606ce4f4)       
+   * [Windows](https://cran.r-project.org/bin/windows/base/) download > some useful instructions [instructions](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027)   
+   * [Mac](https://cran.r-project.org/bin/macosx/) download  > some useful instructions [instructions](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-mac-e911606ce4f4)       
 2. Install R Studio   
-   * Select the free version [here](https://www.rstudio.com/products/rstudio/download/)    
+   * Select the free version [here](https://www.rstudio.com/products/rstudio/download/) 
+   
+## Want to get started before the workshop? 
+If you're keen to get started, and you've installed R and R studio, head over to the checklist document at the home page of this repo and start working through the skills checklist. 
 
