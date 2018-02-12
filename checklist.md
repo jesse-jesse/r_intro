@@ -1,8 +1,8 @@
 
 # Set-up
 1. I have R & R Studio installed on my computer 
-  * yes
-  * [no]()
+ > * yes
+ > * [no]()
 2. I can use ggplot to visualise my data.   
   * yes   
   * [no]() 
