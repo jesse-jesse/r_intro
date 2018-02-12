@@ -4,22 +4,22 @@
  > * yes
  > * [no]()
 2. I can use ggplot to visualise my data.   
-  * yes   
-  * [no]() 
+ > * yes   
+ > * [no]() 
 3. I can transform data into a tidy format.      
-  * yes   
-  * [no]()   
+ > * yes   
+ > * [no]()   
 4. I can load data into R.      
-  * yes   
-  * [no]()   
+ > * yes   
+ > * [no]()   
 5. I can implement a linear model.   
-  * yes   
-  * [no]()   
+ > * yes   
+ > * [no]()   
 6. I have a GitHub account.   
-  * yes   
-  * [no]()   
+ > * yes   
+ > * [no]()   
 7. I have used GitHub to collaborate with others.  
-  * yes   
-  * [no]()   
+ > * yes   
+ > * [no]()   
 
 
