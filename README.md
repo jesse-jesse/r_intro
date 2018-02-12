@@ -9,8 +9,9 @@ you will not leave a one day workshop as a fully acomplished R programmer, just 
 ## Before You Arrive
 
 1. Install R   
-   * [Windows](https://cran.r-project.org/bin/windows/base/) > [instructions](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027)           
-   *[Mac](https://cran.r-project.org/bin/macosx/)  > *[instructions](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-mac-e911606ce4f4)       
+   * [Windows](https://cran.r-project.org/bin/windows/base/) > [instructions](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027)   
+   * test
+   *[Mac](https://cran.r-project.org/bin/macosx/)  > [instructions](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-mac-e911606ce4f4)       
 2. Install R Studio   
    * Select the free version [here](https://www.rstudio.com/products/rstudio/download/)    
 
