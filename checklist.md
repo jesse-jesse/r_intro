@@ -3,7 +3,7 @@
 Work your way through the following checklist and select `no` for any relevant questions. This will link you to resources and exercises that will enable you to add that capability to your toolbox or R skills. Raise your hand if you have any questions
 1. I have R & R Studio installed on my computer 
  > * yes
- > * [no]()
+ > * no - see links in the [README](https://github.com/jesse-jesse/r_intro/blob/master/README.md) file. 
 2. I can use ggplot to visualise my data.   
  > * yes   
  > * [no]() 
