@@ -1,10 +1,10 @@
 # Introduction
-There are many R resources out there, so this repo aims to guide you to the resources you need to get up and running rather than re-creating the wheel. 
+There are many R resources out there, this repo aims to guide you to the resources you need to get up and running rather than re-create a beginner course. 
 
 ## Workshop Style
-The workshops style may be a little different to workshops you have been to in the past. There will be less listening to a presenter and more doing and asking questions. There will be many people of different levels in the workshop and in order to cater for those you will need to take initiative for your own progress. 
+The workshop style may be a little different to workshops you have been to in the past. There will be less listening to a presenter and more doing and asking questions. There will be people of different levels in the workshop and in order to cater for those you will need to take initiative for your own progress. Experienced R users are in the room to help you along the way.    
 
-you will not leave a one day workshop as a fully acomplished R programmer, just as you will not leave your first weight training sessions as a body builder. But you will leave with enough knowledge to continue developing on your own. 
+You will not leave a one day workshop as a fully acomplished R programmer, just as you would not leave your first weight training sessions as a body builder. But you will leave with enough knowledge to continue developing on your own. 
 
 ## Before You Arrive
 
