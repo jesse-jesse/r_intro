@@ -2,7 +2,7 @@
 # Checklist 
 Work your way through the following checklist and select `no` for any relevant questions. This will link you to resources that will enable you to add that capability to your toolbox of R skills. Raise your hand when you have questions.
 1. I have R & R Studio installed on my computer 
- > -[ ] yes
+-[ ] yes
  > * no - see links in the [README](https://github.com/jesse-jesse/r_intro/blob/master/README.md) file. 
 2. I can use ggplot to visualise my data.   
  > * yes   
