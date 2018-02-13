@@ -16,10 +16,13 @@ Work your way through the following checklist and select `no` for any relevant q
 5. I can implement a linear model.   
  > * yes   
  > * [no]()   
-6. I have a GitHub account.   
+6. I feel confident getting help, asking questions and reading helpfiles in R
+ > * yes   
+ > * [no]()  
+7. I have a GitHub account.   
  > * yes   
  > * [no]()   
-7. I have used GitHub to collaborate with others.  
+8. I have used GitHub to collaborate with others.  
  > * yes   
  > * [no]()   
 
