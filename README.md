@@ -15,5 +15,5 @@ You will not leave a one day workshop as a fully acomplished R programmer, just 
    * Select the free version [here](https://www.rstudio.com/products/rstudio/download/) 
    
 ## Want to get started before the workshop? 
-If you're keen to get started, and you've installed R and R studio, head over to the checklist document at the home page of this repo and start working through the skills checklist. 
+If you're keen to get started, and you've installed R and R studio, head over to the [checklist](https://github.com/jesse-jesse/r_intro/blob/master/checklist.md) document at the home page of this repo and start working through the skills checklist. 
 
