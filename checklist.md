@@ -9,24 +9,24 @@ Work your way through the following checklist and select `no` for any relevant q
  > * [no](https://github.com/jesse-jesse/r_intro/blob/master/2.visualisation.md) 
 3. I know what tidy data is and am familiar with the term 'the tidyverse'.   
  > * yes   
- > * [no](https://www.tidyverse.org/) - Will be eavailable at the workshop.   
+ > * [no](https://www.tidyverse.org/) - Available at the workshop.   
 4. I can transform data into a tidy format.      
  > * yes   
- > * [no]()  - will be available at the workshop.    
+ > * [no]()  - Available at the workshop.    
 5. I can load data into R.      
  > * yes   
- > * [no]() - Will be available at the workshop.  
+ > * [no]() - Available at the workshop.  
 6. I can implement a linear model.   
  > * yes   
- > * [no]() - Will be available at the workshop.  
+ > * [no]() - Available at the workshop.  
 7. I feel confident getting help, asking questions and reading help files in R.      
  > * yes   
- > * [no]()  - Will be eavailable at the workshop.   
+ > * [no]()  - Available at the workshop.   
 8. I have a GitHub account.   
  > * yes   
- > * [no]() - Will be available at the workshop.     
+ > * [no]() - Available at the workshop.     
 9. I have used GitHub to collaborate with others.  
  > * yes   
- > * [no]() - Will be available at the workshop.   
+ > * [no]() - Available at the workshop.   
 
 
