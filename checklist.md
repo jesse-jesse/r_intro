@@ -6,7 +6,7 @@ Work your way through the following checklist and select `no` for any relevant q
  > * no - see links in the [README](https://github.com/jesse-jesse/r_intro/blob/master/README.md) file. 
 2. I can use ggplot to visualise my data.   
  > * yes   
- > * [no]() 
+ > * [no](https://github.com/jesse-jesse/r_intro/blob/master/2.visualisation.md) 
 3. I can transform data into a tidy format.      
  > * yes   
  > * [no]()   
@@ -16,7 +16,7 @@ Work your way through the following checklist and select `no` for any relevant q
 5. I can implement a linear model.   
  > * yes   
  > * [no]()   
-6. I feel confident getting help, asking questions and reading helpfiles in R
+6. I feel confident getting help, asking questions and reading help files in R.      
  > * yes   
  > * [no]()  
 7. I have a GitHub account.   
