@@ -12,21 +12,21 @@ Work your way through the following checklist and select `no` for any relevant q
  > * [no](https://www.tidyverse.org/) - We'll discuss this at the workshop.
 4. I can transform data into a tidy format.      
  > * yes   
- > * [no]()   
+ > * [no]()  
 5. I can load data into R.      
  > * yes   
- > * [no]()   
+ > * [no]() - Will be available at the workshop.  
 6. I can implement a linear model.   
  > * yes   
- > * [no]()   
+ > * [no]() - Will be available at the workshop.  
 7. I feel confident getting help, asking questions and reading help files in R.      
  > * yes   
- > * [no]()  
+ > * [no]()  - Will be eavailable at the workshop.   
 8. I have a GitHub account.   
  > * yes   
- > * [no]()   
+ > * [no]() - Will be available at the workshop.     
 9. I have used GitHub to collaborate with others.  
  > * yes   
- > * [no]()   
+ > * [no]() - Will be available at the workshop.   
 
 
