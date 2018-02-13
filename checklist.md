@@ -9,10 +9,10 @@ Work your way through the following checklist and select `no` for any relevant q
  > * [no](https://github.com/jesse-jesse/r_intro/blob/master/2.visualisation.md) 
 3. I know what tidy data is and am familiar with the term 'the tidyverse'.   
  > * yes   
- > * [no](https://www.tidyverse.org/) - We'll discuss this at the workshop.
+ > * [no](https://www.tidyverse.org/) - Will be eavailable at the workshop.   
 4. I can transform data into a tidy format.      
  > * yes   
- > * [no]()  
+ > * [no]()  - will be available at the workshop.    
 5. I can load data into R.      
  > * yes   
  > * [no]() - Will be available at the workshop.  
