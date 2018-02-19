@@ -19,7 +19,7 @@ Work your way through the following checklist and select `no` for any relevant q
 6. I can implement a linear model.   
 > - [ ] yes   
 > - [ ] [no]() - Available at the workshop.  
-7. I feel confident getting help, asking questions and reading help files in R.      
+7. I feel confident getting help, asking questions, reading help files and creating a reproducible example.      
 > - [ ] yes   
 > - [ ] [no]()  - Available at the workshop.   
 8. I have a GitHub account.   
