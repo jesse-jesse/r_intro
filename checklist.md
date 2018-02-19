@@ -1,6 +1,6 @@
 
 # Checklist 
-Work your way through the following checklist and select `no` for any relevant questions. This will link you to resources that will enable you to add that capability to your toolbox of R skills. Raise your hand when you have questions.
+Work your way through the following checklist and select the link next to `no` for those skills you can't confidently answer yes to yet. Grab our attention if you get stuck, have a questions, or find an awesome resource we don't have on our list. 
 1. I have R & R Studio installed on my computer 
 > - [ ] yes
 > - [ ] no - see links in the [README](https://github.com/jesse-jesse/r_intro/blob/master/README.md) file. 
