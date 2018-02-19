@@ -9,10 +9,10 @@ Work your way through the following checklist and select the link next to `no` f
 > - [ ] [no](https://github.com/jesse-jesse/r_intro/blob/master/2.visualisation.md) 
 3. I can clean, transform and wrangle data into the format I need.
 > - [ ] yes   
-> - [ ] [no](https://github.com/jesse-jesse/r_intro/blob/master/4.data_transformation.md)  
+> - [ ] [no](https://github.com/jesse-jesse/r_intro/blob/master/3.data_transformation.md)  
 4. I know what tidy data is and am familiar with the term 'the tidyverse'.   
 > - [ ] yes   
-> - [ ] [no](https://github.com/jesse-jesse/r_intro/blob/master/3.tidydata.md)
+> - [ ] [no](https://github.com/jesse-jesse/r_intro/blob/master/4.tidydata.md)
 5. I know how to use the `%>%` (pipe) from the `magrittr` package.
 > - [ ] yes
 > - [ ] [no]()   
