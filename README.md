@@ -6,9 +6,7 @@ The workshop style may be a little different to workshops you have been to in th
 
 You will not leave a one day workshop as a fully acomplished R programmer, just as you would not leave your first weight training sessions as a body builder. The aim of this workshops is to start you along the journey so that you can continue developing on your own. 
 
-We will predominantly working throgh Hadley Wickham'd R for Data Science book as the main learning framework.   
-
-[R for Data Science](http://r4ds.had.co.nz/)   
+We will predominantly working throgh Hadley Wickham'd [R for Data Science](http://r4ds.had.co.nz/) book as the main learning framework.   
 
 ## Before You Arrive
 
