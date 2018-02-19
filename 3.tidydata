@@ -1,0 +1,10 @@
+This is a quick section!
+
+## Tidy Data
+Here's a simple and clear description of tidydata from [wikapeadia](https://en.wikipedia.org/wiki/Tidy_data), and some [further reading](http://vita.had.co.nz/papers/tidy-data.html) from Hadley Wickham if you're interested.
+
+## Tidyverse
+
+The tidyverse is a bundle of packages that help with creating, cleaning, manipulating data to a tidy format and then work with that data easily to answer your data science questions. Here is some information about the packages within the [tidyverse](https://www.tidyverse.org/). It isn't important that you understand all the packages right now.   
+
+You will have installed the tidyverse into your R studio session already if you copmleted the visualisation chapter in the [R for Data Science](http://r4ds.had.co.nz/) book, see item 2 on the checklist.
