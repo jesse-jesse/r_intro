@@ -10,9 +10,9 @@ Work your way through the following checklist and select the link next to `no` f
 3. I know what tidy data is and am familiar with the term 'the tidyverse'.   
 > - [ ] yes   
 > - [ ] [no](https://github.com/jesse-jesse/r_intro/blob/master/3.tidydata.md)
-4. I can transform data into a tidy format.      
+4. I can clean, transform and wrangle data into the format I need.
 > - [ ] yes   
-> - [ ] [no]()  - Available at the workshop.    
+> - [ ] [no]()    
 5. I can load data into R.      
 > - [ ] yes   
 > - [ ] [no]() - Available at the workshop.  
