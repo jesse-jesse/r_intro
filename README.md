@@ -13,7 +13,7 @@ You will not leave a one day workshop as a fully acomplished R programmer, just 
    * [Mac](https://cran.r-project.org/bin/macosx/) download  > some useful instructions [instructions](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-mac-e911606ce4f4)       
 2. Install R Studio   
    * Select the free version [here](https://www.rstudio.com/products/rstudio/download/) 
-      * Select the installer appropriate for your operating system.
+      * Select the installer appropriate for your operating system (at the bottom of the page)
    
 ## Want to get started before the workshop? 
 If you're keen to get started, and you've installed R and R studio, head over to the [checklist](https://github.com/jesse-jesse/r_intro/blob/master/checklist.md) document at the home page of this repo and start working through the skills checklist. 
