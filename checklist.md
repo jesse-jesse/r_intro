@@ -9,7 +9,9 @@ Work your way through the following checklist and select the link next to `no` f
 > - [ ] [no](https://github.com/jesse-jesse/r_intro/blob/master/2.visualisation.md) 
 3. I know what tidy data is and am familiar with the term 'the tidyverse'.   
 > - [ ] yes   
-> - [ ] [no](https://www.tidyverse.org/) - Available at the workshop.   
+> - [ ] [no](https://www.tidyverse.org/)
+    * [Here a simple description of tidy data](https://en.wikipedia.org/wiki/Tidy_data)
+    * [Further reading](http://vita.had.co.nz/papers/tidy-data.html)
 4. I can transform data into a tidy format.      
 > - [ ] yes   
 > - [ ] [no]()  - Available at the workshop.    
