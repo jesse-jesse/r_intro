@@ -12,7 +12,7 @@ Work your way through the following checklist and select the link next to `no` f
 > - [ ] [no](https://github.com/jesse-jesse/r_intro/blob/master/3.tidydata.md)
 4. I can clean, transform and wrangle data into the format I need.
 > - [ ] yes   
-> - [ ] [no]()    
+> - [ ] [no](https://github.com/jesse-jesse/r_intro/blob/master/4.data_transformation.md)    
 5. I can load data into R.      
 > - [ ] yes   
 > - [ ] [no]() - Available at the workshop.  
