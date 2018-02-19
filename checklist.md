@@ -13,7 +13,10 @@ Work your way through the following checklist and select the link next to `no` f
 4. I can clean, transform and wrangle data into the format I need.
 > - [ ] yes   
 > - [ ] [no](https://github.com/jesse-jesse/r_intro/blob/master/4.data_transformation.md)    
-5. I can load data into R.      
+5. I know how to use the `%>%` (pipe) from the `magrittr` package.
+> - [ ] yes
+> - [ ] [no]()
+I can load data into R.      
 > - [ ] yes   
 > - [ ] [no]() - Available at the workshop.  
 6. I can use Rmarkdown to create a reproducible research script.   
