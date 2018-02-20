@@ -4,7 +4,7 @@ Data Viz, Data Wrangling, Markdown and Importa Data cheat sheets can all be down
 
 ## To learn more 
 
-1. [R for Data Science](http://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Whickham
+1. [R for Data Science](http://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 
 2. [Modern Dive](http://moderndive.com/) by Chester Ismay and Albert Y. Kim
 
