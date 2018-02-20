@@ -13,12 +13,12 @@ Work your way through the following checklist and select the link next to `no` f
 4. I know what tidy data is and am familiar with the term 'the tidyverse'.   
 > - [ ] yes   
 > - [ ] [no](https://github.com/jesse-jesse/r_intro/blob/master/4.tidydata.md)
-5. I know how to use the `%>%` (pipe) from the `magrittr` package.
-> - [ ] yes
-> - [ ] [no]()   
-6. I can load data into R.      
+5. I can load data into R.      
 > - [ ] yes   
-> - [ ] [no]() - Available at the workshop.  
+> - [ ] [no]() - Available at the workshop.    
+6. I know how to use the `%>%` (pipe) from the `magrittr` package.
+> - [ ] yes
+> - [ ] [no]()      
 7. I can use Rmarkdown to create a reproducible research script.   
 > - [ ] yes   
 > - [ ] [no]() - Available at the workshop.  
