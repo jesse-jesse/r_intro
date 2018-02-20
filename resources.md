@@ -1,3 +1,7 @@
+## Cheat Sheets 
+
+Data Viz, Data Wrangling, Markdown and Importa Data cheat sheets can all be downloaded [here](https://www.rstudio.com/resources/cheatsheets/)
+
 ## To learn more 
 
 1. [R for Data Science](http://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Whickham
@@ -24,12 +28,12 @@
 1. [Brisbane Users of R Group](https://www.meetup.com/Brisbane-Users-of-R-Group-BURGr)
 
 2. Twitter is a great way to keep your finger on the pulse of new developments in R. Here are some recommendations to follow as a starting point:    
- * [Jenny Bryan](https://twitter.com/JennyBryan)
- * [Brisbane Users of R Group](https://twitter.com/openburgr)
- * [Hadley Wickam](https://twitter.com/hadleywickham)
- * [Mara Averick](https://twitter.com/dataandme)
- * [Jesse Maegan](https://twitter.com/kierisi) 
- * [#R4DS](https://twitter.com/search?q=%23R4DS&src=typd) R For Data Science
- * [#rstats](https://twitter.com/search?q=%23rstats&src=typd)
+    - [Jenny Bryan](https://twitter.com/JennyBryan)
+    - [Brisbane Users of R Group](https://twitter.com/openburgr)
+    - [Hadley Wickam](https://twitter.com/hadleywickham)
+    - [Mara Averick](https://twitter.com/dataandme)
+    - [Jesse Maegan](https://twitter.com/kierisi) 
+    - [#R4DS](https://twitter.com/search?q=%23R4DS&src=typd) R For Data Science
+    - [#rstats](https://twitter.com/search?q=%23rstats&src=typd)
 
 
