@@ -18,5 +18,5 @@ We will predominantly working throgh Hadley Wickham'd [R for Data Science](http:
       * Select the installer appropriate for your operating system (at the bottom of the page)
    
 ## Get Started 
-If you're keen to get started, and you've installed R and R studio. start at the [checklist](https://github.com/jesse-jesse/r_intro/blob/master/checklist.md) (which can also be found at the home of this repo) and start working through the skills checklist. 
+If you're keen to get started, and you've installed R and R studio, start at the [checklist](https://github.com/jesse-jesse/r_intro/blob/master/checklist.md) (which can also be found at the home of this repo) and start working through the skills checklist. 
 
