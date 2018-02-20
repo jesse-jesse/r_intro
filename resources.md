@@ -1,3 +1,7 @@
+## Cheat Sheets 
+
+Data Viz, Data Wrangling, Markdown and Importa Data cheat sheets can all be downloaded [here](https://www.rstudio.com/resources/cheatsheets/)
+
 ## To learn more 
 
 1. [R for Data Science](http://r4ds.had.co.nz/) by Hadley Whickham 
