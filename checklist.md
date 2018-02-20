@@ -15,7 +15,7 @@ Work your way through the following checklist and select the link next to `no` f
 > - [ ] [no](https://github.com/jesse-jesse/r_intro/blob/master/4.tidydata.md)
 5. I can load data into R.      
 > - [ ] yes   
-> - [ ] [no]() - Available at the workshop.    
+> - [ ] [no](https://github.com/jesse-jesse/r_intro/blob/master/5.load_data.md)
 6. I know how to use the `%>%` (pipe) from the `magrittr` package.
 > - [ ] yes
 > - [ ] [no]()      
