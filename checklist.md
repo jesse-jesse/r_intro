@@ -16,18 +16,17 @@ Work your way through the following checklist and select the link next to `no` f
 5. I can load data into R.      
 > - [ ] yes   
 > - [ ] [no](https://github.com/jesse-jesse/r_intro/blob/master/5.load_data.md)
+<!---
 6. I feel confident getting help, asking questions, reading help files and creating a reproducible example.      
 > - [ ] yes   
 > - [ ] [no]()  - Available at the workshop.   
 7. I know how to use the `%>%` (pipe) from the `magrittr` package.
 > - [ ] yes
 > - [ ] [no]()      
-7. I can use Rmarkdown to create a reproducible research script.   
+8. I can use Rmarkdown to create a reproducible research script.   
 > - [ ] yes   
 > - [ ] [no]() - Available at the workshop.  
-8. 
-<!---
-9. I have a GitHub account.   
+9.I have a GitHub account.   
 > - [ ] yes   
 > - [ ] [no]() - Available at the workshop.     
 10. I have used GitHub to collaborate with others.  
