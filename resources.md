@@ -18,7 +18,7 @@ Data Viz, Data Wrangling, Markdown and Importa Data cheat sheets can all be down
 
 2. [Stack Overflow](https://stackoverflow.com/questions/tagged/r)
 
-3. How to creaye a reproducible example:
+3. How to create a reproducible example:
     - [Magic Reprex](http://www.njtierney.com/post/2017/01/11/magic-reprex/)
     - [So you've been asked to make a reprex](https://www.jessemaegan.com/post/so-you-ve-been-asked-to-make-a-reprex.html)
 
