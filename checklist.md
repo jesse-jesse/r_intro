@@ -25,11 +25,12 @@ Work your way through the following checklist and select the link next to `no` f
 8. I feel confident getting help, asking questions, reading help files and creating a reproducible example.      
 > - [ ] yes   
 > - [ ] [no]()  - Available at the workshop.   
+<!---
 9. I have a GitHub account.   
 > - [ ] yes   
 > - [ ] [no]() - Available at the workshop.     
 10. I have used GitHub to collaborate with others.  
 > - [ ] yes   
-> - [ ] [no]() - Available at the workshop.   
+> - [ ] [no]() - Available at the workshop. --->  
 
 
