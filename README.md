@@ -14,7 +14,7 @@ We will predominantly working throgh Hadley Wickham'd [R for Data Science](http:
    * [Windows](https://cran.r-project.org/bin/windows/base/) download > some useful instructions [instructions](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027)   
    * [Mac](https://cran.r-project.org/bin/macosx/) download  > some useful instructions [instructions](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-mac-e911606ce4f4)       
 2. Install R Studio   
-   * Select the free version [here](https://www.rstudio.com/products/rstudio/download/) 
+   * Select the free version on this page -  [Download R Studio](https://www.rstudio.com/products/rstudio/download/) 
       * Select the installer appropriate for your operating system (at the bottom of the page)
    
 ## Get Started 
