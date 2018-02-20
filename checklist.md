@@ -10,7 +10,7 @@ Work your way through the following checklist and select the link next to `no` f
 3. I can clean, transform and wrangle data.
 > - [ ] yes   
 > - [ ] [no](https://github.com/jesse-jesse/r_intro/blob/master/3.data_transformation.md)  
-4. I know what tidy data is and am familiar with the term 'the tidyverse'.   
+4. I know what tidy data is and I am familiar with the term 'the tidyverse'.   
 > - [ ] yes   
 > - [ ] [no](https://github.com/jesse-jesse/r_intro/blob/master/4.tidydata.md)
 5. I can load data into R.      
